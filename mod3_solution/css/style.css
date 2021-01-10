@@ -1,0 +1,63 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+
+}
+
+* {
+    box-sizing: border-box;
+
+}
+
+h2{
+    font-size: 175%;
+    margin-top: 30px;
+    margin-bottom: 70px;
+}
+
+h3{
+   
+    font-size: 140%;
+    font-weight: bold;
+    padding: 5px;
+    width: 150px;
+    margin: 10px auto 0px auto;
+
+}
+
+.column{
+    background-color: rgb(194, 150, 150);
+    border: 1px solid black;
+    position: relative;
+    margin: 0 20px 20px;
+
+}
+
+
+p{
+    margin-top: 50px;
+    padding: 0px 10px 0px 10px;
+    
+
+}
+
+
+section{
+    margin-bottom: 3%;
+}
+
+
+/* Nav Bar */
+#header-nav h1{
+    color: white;
+}
+
+hr{
+    background-color: white;
+    margin: 5px 0px;
+}
+
+.navbar-brand a{
+    text-decoration: none;
+}
+
